@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Information Technology Projects:
 **VMware Workstation (Virtual Machine Setup)**
-- VMware Workstation: Prerequisites and Installation
+- [VMware Workstation: Prerequisites and Installation](https://github.com/tonijjohnson2024-ux/vmware-prereqs)
 - VMware Workstation: Creating and Configuring a Virtual Machine
 - VMware Workstation: Network and Storage Configuration
 
