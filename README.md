@@ -12,8 +12,8 @@
 - Active Directory: Configuring Group Policy and Permissions
 
 ## Connect with me:
-- Email: john@example.com
-- LinkedIn: [linkedin.com/in/johndoe](#)
+- Email: tonijjohnson2024@gmail.com
+- LinkedIn: [linkedin.com/in/](#)
 
 
 <!--
